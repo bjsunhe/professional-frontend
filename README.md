@@ -2,10 +2,12 @@
 
 - Frontend DevOps
   - Deployment
-  - Test
   - roll back
-  - a/b test
 - Frontend Monitoring
   - Performance, User Experience
-- Frontend Cli
-- webpack
+- Automation
+  - Frontend Cli
+  - webpack
+- Test
+  - Test
+  - a/b test
